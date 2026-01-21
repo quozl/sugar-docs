@@ -339,6 +339,12 @@ Goals for review are to;
 
 - each of the [Fructose](https://wiki.sugarlabs.org/go/Development_Team/Release/Modules#Fructose) activity set repositories,
 
+### AI guidelines for Sugar Labs
+
+- If you use AI to generate code for a pull request, you must include the prompts and the full conversation history from the AI tool (such as Claude Code, Codex, or GitHub Copilot etc). Including this information will help us understand your approach to solving the problem and facilitate a faster and more effective review of your pull request. It also allows us to provide more detailed feedback on how to improve your contribution.
+
+
+
 Frequently Asked Questions
 --------------------------
 
