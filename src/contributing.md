@@ -175,6 +175,8 @@ Change files, and commit.  Commit messages are kept by git, and are used later w
 7. avoid mentioning any contest tasks or mentors; use pull-request comments instead; and
 8. use imperative mood, like "add foo", or "port to bar"; (if English is not your first language, see [imperative mood](https://en.wikipedia.org/wiki/Imperative_mood), [git documentation](https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches#n133) and [blog post by Dan Clarke](https://www.danclarke.com/git-tense)).
 
+See additional guidance [How to Write a Git Commit Message](https://chris.beams.io/git-commit)) from 2014.
+
 Make one or more commits and push the branch to your repository;
 
 ```
