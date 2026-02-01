@@ -9,7 +9,7 @@ In brief, you will:
 * on your computer, clone your fork repository,
 * commit your changes in a new branch;
 * push your branch and submit a pull-request for it;
-* go through the review process until your pull-request is merged; and
+* go through the review process until your pull-request is merged.
 
 Please note there is no need to ask permission to work on an
 issue. You should check for pull requests linked to an issue you are
@@ -84,7 +84,7 @@ After modifying an activity, a new release may be needed.  Some activities have 
 
 * [ ] if there is a `po/*.pot` file, regenerate using `python setup.py genpot`, review the changes, and commit,
 
-* [ ] If the activity is on [weblate](weblate.sugarlabs.org), be sure to merged any open PRs raised
+* [ ] If the activity is on [weblate](weblate.sugarlabs.org), be sure to merge any open PRs raised
 from the [weblate-sync](https://wiki.sugarlabs.org/go/Service/Weblate) workflow. 
 
 * [ ] update the README.md file if necessary,
@@ -362,3 +362,13 @@ changes, then push.  See [Getting error 403 while submitting
 PR](http://lists.sugarlabs.org/archive/sugar-devel/2017-March/053926.html)
 and [D. Joe's
 reply](http://lists.sugarlabs.org/archive/sugar-devel/2017-March/053929.html).
+
+### My fork is out of date. How do I sync it with upstream?
+
+See GitHub’s guide on syncing a fork:
+https://docs.github.com/en/get-started/quickstart/fork-a-repo#syncing-a-fork
+
+### Where can I ask questions or get help from the community?
+
+Join the Sugar Labs community chat or mailing lists:
+https://matrix.to/#/#sugar:matrix.org
